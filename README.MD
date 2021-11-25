@@ -2,6 +2,7 @@
 
 
 <p>Welcome to my page! </br> I'm Adarsh Singh, I am from <b>Pune, India</b>. </p>
+<h3>Things I code with</h3>
 <p>
   <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
   <img alt="github actions" src="https://img.shields.io/badge/-Github_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white" />
